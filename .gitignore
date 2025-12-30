@@ -12,3 +12,10 @@ __pycache__/
 # Jupyter (if you use it later)
 .ipynb_checkpoints/
 
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# Local history (PyCharm plugin)
+.history/
+
